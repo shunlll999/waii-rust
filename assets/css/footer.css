@@ -1,0 +1,71 @@
+.footer-bar-container {
+  display: block;
+  position: relative;
+  width: 100%;
+  padding: 1rem;
+  min-height: 350px;
+  background-color:rgb(31, 25, 30);
+  box-sizing: border-box;
+}
+
+.footer-bar-container .menu-panel {
+  display: block;
+  color: white;
+  padding: 0 0.5rem;
+}
+
+.footer-bar-container .menu-panel li {
+  list-style: none;
+  padding: 0.2rem 0;
+}
+
+.footer-bar-container .menu-panel li a {
+  color: aliceblue;
+  font-size: 1rem;
+}
+
+.footer-logo {
+  display: flex;
+}
+
+.footer-caption-bar {
+  display: block;
+  margin-bottom: 1rem;
+  font-size: 0.8rem;
+}
+
+.footer-bar-tools {
+  display: block;
+  position: absolute;
+  right: 50%;
+  bottom: 20px;
+  width: fit-content;
+  height: fit-content;
+  transform: translateX(50%);
+  transition: all 0.3s ease-in-out;
+}
+
+.footer-rust-logo {
+  display: block;
+  width: 50px;
+  height: 50px;
+  object-position: center;
+  filter: invert(2);
+}
+
+.footer-dioxus-logo {
+  display: block;
+  margin-left: 1rem;
+  width: 250px;
+  object-position: center;
+}
+
+@media only screen and (min-width: 600px) {
+
+  .footer-bar-tools {
+    right: 20px;
+    bottom: 20px;
+    transform: translateX(0);
+  }
+
+}

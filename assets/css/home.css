@@ -1,0 +1,134 @@
+.home-container {
+  min-height: calc(100dvh - var(--dimension));
+  background-color: transparent;
+  position: relative;
+  max-width: 1280px;
+  margin: auto;
+}
+
+.action-container h3 {
+  margin: 0;
+}
+
+.action-container {
+  display: block;
+  border: 0.07rem solid rgba(255, 166, 0, 0.531);
+  padding: 1rem;
+  margin: 1.5rem;
+}
+
+.action-list {
+  margin: 1rem;
+}
+
+.hero-container {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 400px;
+}
+
+.hero-caption {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: white;
+  background-color: rgba(98, 98, 98, 0.24);
+  backdrop-filter: blur(5px);
+  padding-bottom: 1rem;
+}
+
+.hero-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: right;
+  z-index: -1;
+}
+
+
+.hero-container h1, .hero-container h2, .hero-container .caption {
+  margin: 0 1rem;
+}
+
+.hero-container h1 {
+  display: block;
+  position: relative;
+  font-size: 40px;
+  width: fit-content;
+}
+
+.hero-container p {
+  display: block;
+  position: relative;
+  font-size: 18px;
+  width: fit-content;
+  margin: 0.5rem 1rem;
+}
+
+.hero-container h1::after {
+  content: '';
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 100%;
+  height: 5px;
+  border-top: 0.05rem solid rgba(255, 166, 0, 0.796);
+  border-style: dotted;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+}
+
+@media only screen and (min-width: 600px) {
+  .hero-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 10px;
+  }
+
+  .hero-container h1 {
+    font-size: 60px;
+  }
+
+  .action-container {
+    width: 50%;
+    height: 50%;
+    font-size: 1.2rem;
+    margin: 0 auto 2rem;
+    border-radius: 8px;
+    border: 0.07rem solid rgba(255, 166, 0, 0.531);
+    border-style: dotted;
+  }
+
+  .hero-caption {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: unset;
+    width: 70%;
+    height: 100%;
+    padding: 0 0 0 2rem;
+  }
+
+  .hero-container p {
+    max-width: 350px;
+    font-weight: 300;
+  }
+
+  .hero-image {
+    position: relative;
+    display: block;
+    height: 100%;
+    width: 50%;
+    /* object-fit: cover; */
+    object-position: top;
+    z-index: 1;
+  }
+}

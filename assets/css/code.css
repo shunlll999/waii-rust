@@ -1,0 +1,31 @@
+.code {
+  color: #a5abb8;
+  font-size: 14px;
+  text-shadow: none;
+  padding: 0;
+  border-spacing: 0;
+  border-radius: 5px;
+  overflow-x: auto;
+  width: 100%;
+  align-items: center;
+  padding-left: 0.5rem;
+  box-sizing: border-box;
+}
+
+.code .nums-line {
+  display: block;
+  background-color: #3a3a3a;
+  padding: 15px 10px 15px 18px;
+  color: #666;
+  text-align: right;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border: 1px solid #4b4b4b;
+  border-right: 1px solid #1b1d22;
+}
+
+@media only screen and (min-width: 600px) {
+  .code {
+    max-width: 400px;
+  }
+}
