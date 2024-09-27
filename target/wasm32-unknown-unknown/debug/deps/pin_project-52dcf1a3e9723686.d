@@ -1,7 +1,0 @@
-/Users/wachiii/Documents/WORKS/2025/waii-rust/waii/target/wasm32-unknown-unknown/debug/deps/libpin_project-52dcf1a3e9723686.rmeta: /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pin-project-1.1.5/src/lib.rs
-
-/Users/wachiii/Documents/WORKS/2025/waii-rust/waii/target/wasm32-unknown-unknown/debug/deps/libpin_project-52dcf1a3e9723686.rlib: /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pin-project-1.1.5/src/lib.rs
-
-/Users/wachiii/Documents/WORKS/2025/waii-rust/waii/target/wasm32-unknown-unknown/debug/deps/pin_project-52dcf1a3e9723686.d: /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pin-project-1.1.5/src/lib.rs
-
-/Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pin-project-1.1.5/src/lib.rs:
