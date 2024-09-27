@@ -1,0 +1,10 @@
+/Users/wachiii/Documents/WORKS/2025/waii-rust/waii/target/debug/deps/libgloo_console-e47a9846d72f1787.rmeta: /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/lib.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/console_dbg.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/counter.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/externs.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/macros.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/timer.rs
+
+/Users/wachiii/Documents/WORKS/2025/waii-rust/waii/target/debug/deps/gloo_console-e47a9846d72f1787.d: /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/lib.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/console_dbg.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/counter.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/externs.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/macros.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/timer.rs
+
+/Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/lib.rs:
+/Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/console_dbg.rs:
+/Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/counter.rs:
+/Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/externs.rs:
+/Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/macros.rs:
+/Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/timer.rs:

@@ -1,0 +1,9 @@
+/Users/wachiii/Documents/WORKS/2025/waii-rust/waii/target/debug/deps/libdioxus_core_macro-02be09d220da21d3.dylib: /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.6/src/lib.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.6/src/component.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.6/src/props/mod.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.6/src/utils.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.6/src/../README.md
+
+/Users/wachiii/Documents/WORKS/2025/waii-rust/waii/target/debug/deps/dioxus_core_macro-02be09d220da21d3.d: /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.6/src/lib.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.6/src/component.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.6/src/props/mod.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.6/src/utils.rs /Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.6/src/../README.md
+
+/Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.6/src/lib.rs:
+/Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.6/src/component.rs:
+/Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.6/src/props/mod.rs:
+/Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.6/src/utils.rs:
+/Users/wachiii/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.6/src/../README.md:
